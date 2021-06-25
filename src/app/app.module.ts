@@ -7,6 +7,7 @@ import { ComponentFirstComponent } from './component-first/component-first.compo
 import { DevelopComponent } from './develop/develop.component';
 <<<<<<< HEAD
 import { LoginComponent } from './login/login.component';
+import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 =======
 import { RegistrationComponent } from './registration/registration.component';
 >>>>>>> 8150eb5e854184881085c2abdda3affe64077516
@@ -17,7 +18,8 @@ import { RegistrationComponent } from './registration/registration.component';
     ComponentFirstComponent,
     DevelopComponent,
 <<<<<<< HEAD
-    LoginComponent
+    LoginComponent,
+ForgotPasswordComponent
 =======
     RegistrationComponent
 >>>>>>> 8150eb5e854184881085c2abdda3affe64077516
